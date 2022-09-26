@@ -1,6 +1,7 @@
 # Experiments with Overparameterized Models with Linear Regression
-
-
+In this repository, I conduct 4 different experiments to view how the double descent curve changes. The double descent curve is a phenomenon dealing with overparameterized models. In certain settings of neural networks, the global optimum can be found in the overparameterized setting, so I try to experiment with this with Linear Regression. The data I work with is randomly generated (Normal).
+ <br>
+ <br>
  <strong> Files:  </strong> 
  <br> 
 <em>4803_ProjectReport</em>: Paper outlining the work I tried to replicate and the phenomenon in depth. 
